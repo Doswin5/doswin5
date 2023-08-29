@@ -1,3 +1,5 @@
+![My banner](https://pbs.twimg.com/profile_banners/741269795929231360/1685498800/600x200)
+
 <h1 align="center">Hi 👋, I'm Doswin</h1>
 <h3 align="center">A passionate Frontend Web Developer from Nigeria</h3>
 

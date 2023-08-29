@@ -1,7 +1,7 @@
 ![My banner](https://pbs.twimg.com/profile_banners/741269795929231360/1685498800/600x200)
 
-<h1 align="center">Hi 👋, I'm Doswin</h1>
-<h3 align="center">A passionate Frontend Web Developer from Nigeria</h3>
+<h1 align="left">Hi 👋, I'm Doswin</h1>
+<h3 align="left">A passionate Frontend Web Developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doswin5&label=Profile%20views&color=0e75b6&style=flat" alt="doswin5" /> </p>
 
